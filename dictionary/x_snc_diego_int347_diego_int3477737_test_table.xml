@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Diego INT3477737 Test Table" max_length="40" name="x_snc_diego_int347_diego_int3477737_test_table" type="collection"/>
+    <element label="Diego INT3477737 Test Table" max_length="40" name="x_snc_diego_int347_diego_int3477737_test_table" type="collection">
+        <element label="Hello" max_length="100" name="hello" type="string"/>
+    </element>
 </database>
