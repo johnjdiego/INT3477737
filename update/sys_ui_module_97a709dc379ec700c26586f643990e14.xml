@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Diego INT3477737 Test">13a709dc379ec700c26586f643990e14</application>
+        <filter/>
+        <name>Diego INT3477737 Test Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_diego_int347.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>john.diego@snc</sys_created_by>
+        <sys_created_on>2017-11-03 22:26:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>97a709dc379ec700c26586f643990e14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Diego INT3477737 Test Table</sys_name>
+        <sys_package display_value="Diego INT3477737 Test" source="x_snc_diego_int347">6ea70958379ec700c26586f643990e63</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Diego INT3477737 Test">6ea70958379ec700c26586f643990e63</sys_scope>
+        <sys_update_name>sys_ui_module_97a709dc379ec700c26586f643990e14</sys_update_name>
+        <sys_updated_by>john.diego@snc</sys_updated_by>
+        <sys_updated_on>2017-11-03 22:26:45</sys_updated_on>
+        <table>x_snc_diego_int347_diego_int3477737_test_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
